@@ -11,6 +11,10 @@
 A complaint management system to send the compaints to different departments by user. The complaints can be forwaded by admin as per nature of complaints and will be responded by the respective staff.
 </p>
 
+## About
+Powerpoint Presentation: [Follow Link](https://docs.google.com/presentation/d/1yDDl979EvZ7uS2ok8U-oVDTOkxMZfHmw/edit?usp=sharing&ouid=113381839035941071361&rtpof=true&sd=true)
+Demo Video: [Follow Link](https://drive.google.com/file/d/13jeJ3ZBpxjMoTXaDpuUD8NScfYnnipNO/view?usp=sharing)
+
 ## Technologies/Frameworks/Libraries Used
 - JavaScript
 - Express.js
