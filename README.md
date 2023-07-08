@@ -12,8 +12,8 @@ A complaint management system to send the compaints to different departments by 
 </p>
 
 ## About
-Powerpoint Presentation: [Follow Link](https://docs.google.com/presentation/d/1yDDl979EvZ7uS2ok8U-oVDTOkxMZfHmw/edit?usp=sharing&ouid=113381839035941071361&rtpof=true&sd=true)
-Demo Video: [Follow Link](https://drive.google.com/file/d/13jeJ3ZBpxjMoTXaDpuUD8NScfYnnipNO/view?usp=sharing)
+- Powerpoint Presentation: [Follow Link](https://docs.google.com/presentation/d/1yDDl979EvZ7uS2ok8U-oVDTOkxMZfHmw/edit?usp=sharing&ouid=113381839035941071361&rtpof=true&sd=true)
+- Demo Video: [Follow Link](https://drive.google.com/file/d/13jeJ3ZBpxjMoTXaDpuUD8NScfYnnipNO/view?usp=sharing)
 
 ## Technologies/Frameworks/Libraries Used
 - JavaScript
